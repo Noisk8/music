@@ -70,7 +70,7 @@ export const PROJECTS = [
       id: "Showme the code",
       title: "Show Me  the code",
       description: "Me gusta compartir  el código de m is canciones y presentaciones en vivo, en este espacio podrás encontrar el código fuente de mis proyectos y present",
-      image: 'https://images.unsplash.com/photo-1516849841032-87cbac4d88f7?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+      image: 'https://www.noisk8.xyz/assets/noi.jpg',
       externalLink: "https://gist.github.com/Noisk8",
       details: [
         "Codigos para usar en FoxDot (Python)",
