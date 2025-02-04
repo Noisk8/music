@@ -40,7 +40,7 @@ export const CONTACTS = {
 
 export const SLOGAN = "Musica Rudio Y livecoding";
 export const ME_DESCRIPTION =
-  `Hi, I’m Leo! Since childhood, I’ve dreamed of becoming an astronaut, which shaped my passion for exploration and curiosity about the unknown. I’m a creative thinker with strong logical reasoning skills, allowing me to approach challenges innovatively yet systematically. I thrive on discovering new ideas and pushing boundaries, whether in my work or personal growth. My motto, “Explore endlessly, surpass yourself,” reflects my dedication to learning and achieving. Combining creativity with analytical thinking, I’m eager to contribute to meaningful projects and explore new opportunities!`;
+  `Hola Soy NOisk8, soy un apasionado de la musica y el sonido, también soy un total enamorado de las tecnologías de codigo abierto, considero que la tecnología y el conocimiento debe ser compartido en su mayoir expresión, es por eso que para mis producciones utilizo herramientas libres Livecoding y sintetizadores DIY `;
 
 
 export const WORK_EXPERIENCE = [
