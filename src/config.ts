@@ -22,12 +22,7 @@ export const MENUS = [
     link: "/en/posts",
     target: "_self",
   },
-  {
-    title: "Github",
-    link: "https://github.com/Noisk8/",
-    target: "_blank",
-    icon: "github",
-  },
+
 ];
 
 export const FOOTER_CONTENT = "Noisk8";
@@ -46,21 +41,21 @@ export const ME_DESCRIPTION =
 export const WORK_EXPERIENCE = [
   {
     company: "Kabalah Records",
-    position: "Innovation Explorer",
+    position: "Colombia",
     startDate: "2024",
     endDate: "2024",
   },
   
   {
     company: "Nucleoroto",
-    position: "Astro Trainee",
-    startDate: "2023",
-    endDate: "2023",
+    position: "Mexico",
+    startDate: "2019",
+    endDate: "2024",
   },
   
   {
     company: "Corralon Records",
-    position: "Creative Logic Engineer",
+    position: "Spain",
     startDate: "2020",
     endDate: "2022",
   },
