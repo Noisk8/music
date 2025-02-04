@@ -40,7 +40,7 @@ export const ME_DESCRIPTION =
 
 export const WORK_EXPERIENCE = [
   {
-    company: "Kabalah Records",
+    company: "Kbalah Records",
     position: "Colombia",
     startDate: "2024",
     endDate: "2024",
